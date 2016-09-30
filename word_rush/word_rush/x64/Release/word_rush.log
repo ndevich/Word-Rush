@@ -1,0 +1,9 @@
+﻿  word_rush.cpp
+word_rush.cpp(164): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+word_rush.cpp(62): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Generating code
+  All 314 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  word_rush.vcxproj -> C:\Users\Nadine\Documents\Visual Studio 2015\Projects\word_rush\x64\Release\word_rush.exe
+  word_rush.vcxproj -> C:\Users\Nadine\Documents\Visual Studio 2015\Projects\word_rush\x64\Release\word_rush.pdb (Full PDB)
